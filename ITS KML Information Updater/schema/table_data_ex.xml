@@ -1,0 +1,61 @@
+<style type='text/css'>*{font-family:Verdana,Arial,Helvetica,Sans-Serif;}</style>
+	<table border='0' cellspacing='0' cellpadding='0'>
+		<tr>
+			<td colspan='2' style='vertical-align: top; padding-left: 10px; padding-right: 10px; white-space: nowrap;'>
+				<b>*NAME</b>
+				<br/>
+				<b>*TYPE</b>
+			</td>
+		</tr>
+		<tr>
+			<td colspan='2' style='vertical-align: top; padding-left: 10px; padding-right: 10px; max-width: 400px; white-space: nowrap;'>&nbsp;</td>
+		</tr>
+		<tr bgcolor='#ddffdd' >
+			<td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'>
+				<b>LATITUDE</b>
+			</td>
+			<td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>*LAT</td>
+		</tr>
+		<tr>
+			<td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'>
+				<b>LONGITUDE</b>
+			</td>
+			<td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>*LON</td>
+		</tr>
+		<tr bgcolor='#ddffdd' >
+			<td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'>
+				<b>DESCRIPTION:</b>
+			</td>
+			<td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>*DESC</td>
+		</tr>
+		<tr>
+			<td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'>
+				<b>LOCATION:</b>
+			</td>
+			<td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>*LOC</td>
+		</tr>
+		<tr bgcolor='#ddffdd' >
+			<td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'>
+				<b>MILE POST:</b>
+			</td>
+			<td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>*MP</td>
+		</tr>
+		<tr>
+			<td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'>
+				<b>PROJECT NAME:</b>
+			</td>
+			<td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>*PName</td>
+		</tr>
+		<tr bgcolor='#ddffdd' >
+			<td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'>
+				<b>PI:</b>
+			</td>
+			<td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>*PI</td>
+		</tr>
+		<tr>
+			<td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'>
+				<b>TYPE:</b>
+			</td>
+			<td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'></td>
+		</tr>
+	</table>

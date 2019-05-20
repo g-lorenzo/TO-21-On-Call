@@ -1,0 +1,38 @@
+<p>
+	<font size="4">
+		<strong>Location Info:</strong>
+	</font>
+	<br />
+	<font size="3">
+		<strong>*LOC</strong>
+		<br />
+		<strong>Mile Post -</strong>
+	</font>
+	<font size="3">*MP<br />
+		<strong>Description -&nbsp;</strong>
+	</font>
+	<font size="3">*DESC<br />
+		<strong>Critical</strong>
+	</font>
+	<font size="3">- *CRIT</font>
+	<br />
+	<font size="3">
+		<strong>Microwave Receiver Required for Video:</strong> *MIC</font>
+	<br />
+	<font size="3">
+		<br />
+		<strong>
+			<font size="4">Project Info:</font>
+		</strong>
+		<br />
+		<strong>Project Name -</strong>*PName<br />
+		<strong>P.I. # - </strong>*PI<br />
+	</font>
+	<font size="3">
+		<strong>Federal Project # -</strong>*FPI</font>
+	<br />
+	<font size="4">
+		<strong>Asset(s) at this location:</strong>
+	</font>
+	<br />
+</p>
