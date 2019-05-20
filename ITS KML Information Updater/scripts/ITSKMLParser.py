@@ -256,7 +256,7 @@ def addDeviceToKML(dev, kmlFile, newKML, allowWrite, replace=False):
     elif len(name_element_list) == 0:
         raise ValueError("Could not find specified folder '{}'".format(dev.folder))
 
-    fe = name_element_list[0].getparent();
+    fe = name_element_list[0].getparent()
     del name_element_list  # Get parent folder element
 
     new_device_text = dev.createKMLTextFromDevice(kmlFile)  # Create string from the device based on a KML file
@@ -341,8 +341,7 @@ def countDevicesInFolder(kmlName, fol=''):
         except:
             raise LookupError("No Folders Found")
 
-    # TODO: Finish coding this section for counting the number of devvices in a folder
-    # TODO: Use text from function removeDuplicatesFromKML, it's 50% of what's needed
+    # TODO: Finish coding this section for counting the number of devvices in a folder using removeDuplicatesfromKML
 
 
 def createCData(dev: Device, format='tbl'):
